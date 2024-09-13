@@ -1,0 +1,482 @@
+        <form
+          action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdUlT3m9I6YSYxs8aF24eCMwXrhK6C7exbehBVQM8-2c1_i5A/formResponse"
+          target="_self"
+          method="POST"
+          id="mG61Hd"
+          jsmodel="TOfxwf Q91hve CEkLOc"
+          data-draft-response='%.@."",1725794308331,1726125100632,null,"4281535002415197103",null,[[null,null,[""],false,null,null,48041064],[null,null,["t"],false,null,null,51933766],[null,null,[""],false,null,null,87632410],[null,null,["で"],false,null,null,113208864],[null,null,["で"],false,null,null,149331305],[null,null,["② から"],false,null,null,232531146],[null,null,["22:00"],false,null,null,375432037],[null,null,["① で"],false,null,null,427988484],[null,null,[""],false,null,null,562372416],[null,null,["③ で"],false,null,null,602410306],[null,null,["に"],false,null,null,689815601],[null,null,[""],false,null,null,694854629],[null,null,[""],false,null,null,719271338],[null,null,[""],false,null,null,815230742],[null,null,[""],false,null,null,846421521],[null,null,[""],false,null,null,1507286175],[null,null,[""],false,null,null,1525787854],[null,null,["に"],false,null,null,1667787729],[null,null,[""],false,null,null,1824217848],[null,null,[""],false,null,null,1858296515],[null,null,["t"],false,null,null,1948086066],[null,null,[""],false,null,null,1975596648],[null,null,[""],false,null,null,2031320365],[null,null,[""],false,null,null,2094089950]],"adistipebritanti@gmail.com"]'
+          data-shuffle-seed="4281535002415197103"
+          data-clean-viewform-url="https://docs.google.com/forms/d/e/1FAIpQLSdUlT3m9I6YSYxs8aF24eCMwXrhK6C7exbehBVQM8-2c1_i5A/viewform"
+          data-response='%.@.[["51933766",[null,51933766,["t"],false]],["1948086066",[null,1948086066,["t"],false]],["1667787729",[null,1667787729,["に"],false]],["232531146",[null,232531146,["② から"],false]],["602410306",[null,602410306,["③ で"],false]],["149331305",[null,149331305,["で"],false]],["427988484",[null,427988484,["① で"],false]],["375432037",[null,375432037,["22:00"],false]],["689815601",[null,689815601,["に"],false]],["113208864",[null,113208864,["で"],false]]]]'
+          data-email-address="adistipebritanti@gmail.com"
+          data-dlp-data="%.@.null,false]"
+          data-first-entry="12"
+          data-last-entry="16"
+        >
+          <div jscontroller="yUS4Lc" jsaction="rcuQ6b:rcuQ6b;UxRBlf:rcuQ6b;">
+            <div jsname="o6bZLc">
+              <input type="hidden" name="entry.48041064" value="" /><input
+                type="hidden"
+                name="entry.1507286175"
+                value=""
+              /><input type="hidden" name="dlut" value="1726125100632" />
+            </div>
+          </div>
+          <div class="RH5hzf RLS9Fe">
+            <div class="lrKTG">
+              <div class="Dq4amc">
+                <div class="m7w29c O8VmIc tIvQIf">
+                  <noscript
+                    ><div class="HB1eCd-X3SwIb-haAclf">
+                      <div class="HB1eCd-X3SwIb-i8xkGf">
+                        <div
+                          class="tk3N6e-cXJiPb tk3N6e-cXJiPb-TSZdd tk3N6e-cXJiPb-GMvhG"
+                        >
+                          JavaScript tidak diaktifkan pada browser, jadi file
+                          ini tidak dapat dibuka. Aktifkan dan muat ulang.
+                        </div>
+                      </div>
+                      <br /></div
+                  ></noscript>
+                  <div class="JH79cc RVEQke b33AEc"></div>
+                  <div class="N0gd6">
+                    <div class="ahS2Le">
+                      <div
+                        class="F9yp7e ikZYwf LgNcQe"
+                        dir="auto"
+                        role="heading"
+                        aria-level="1"
+                      >
+                        L10 : Bunpou Test
+                      </div>
+                    </div>
+                    <div jsname="F0H8Yc" class="liS6Hc"></div>
+                  </div>
+                  <div class="zAVwcb"></div>
+                  <div class="DqBBlb">
+                    <div class="Oh1Vtf">
+                      <div class="tMRmsd" id="wSDd7b">
+                        <div class="ut7aeb">
+                          <div class="eAQI0e">
+                            <span class="EbMsme"
+                              >adistipebritanti@gmail.com</span
+                            >
+                            <a
+                              href="https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdUlT3m9I6YSYxs8aF24eCMwXrhK6C7exbehBVQM8-2c1_i5A/formResponse&amp;service=wise"
+                              aria-describedby="wSDd7b"
+                              class="jZZ5Nd"
+                              >Ganti akun</a
+                            >
+                          </div>
+                        </div>
+                        <div class="ut7aeb KA8vlc"></div>
+                      </div>
+                      <div
+                        class="UpwdYb"
+                        jscontroller="rmdjlf"
+                        jsaction="rcuQ6b:npT2md; click:xdDXgc;"
+                      >
+                        <div class="foqfDc gdyQ3c">
+                          <div
+                            class="Y0xAIe BNL9Bd NpcyEe-n5T17d-Bz112c-DcLNVc-iib5kc-BvMwwf"
+                            aria-hidden="true"
+                          >
+                            &nbsp;
+                          </div>
+                          <div
+                            class="Y0xAIe ivmiLb NpcyEe-n5T17d-Bz112c-DcLNVc-iib5kc-AhqUyc"
+                            aria-hidden="true"
+                          >
+                            &nbsp;
+                          </div>
+                          <div
+                            class="Y0xAIe tDDvMb NpcyEe-n5T17d-Bz112c-DcLNVc-iib5kc"
+                            aria-hidden="true"
+                          >
+                            &nbsp;
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="aGYtCb">
+                      Alamat email Anda akan direkam saat formulir ini
+                      dikirimkan
+                    </div>
+                    <div class="zAVwcb"></div>
+                    <div class="md0UAd" aria-hidden="true" dir="auto">
+                      * Menunjukkan pertanyaan yang wajib diisi
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="o3Dpx" role="list">
+                <div class="Qr7Oae pQK2A" role="listitem">
+                  <div class="KkG9vf mBzBBe" jsname="bLLMxc" role="heading">
+                    <div class="SajZGc RVEQke hN5qnf">
+                      <div class="aG9Vid vVO4xd M7eMe">
+                        Tulislah menggunakan hiragana/katakana ( atau kanji yang
+                        sudah dipelajari beserta cara bacanya)
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="Qr7Oae" role="listitem">
+                  <div
+                    class="OxAavc JPPuWb"
+                    jsname="ibnC6b"
+                    jscontroller="RGrRJf"
+                    data-item-id="1274913195"
+                  >
+                    <div class="pYfr3c">
+                      <div class="g53bl">
+                        <div class="cTDvob D1wxyf RjsPE" dir="auto">
+                          <span class="M7eMe"
+                            >Contoh:&nbsp;
+                            <div>
+                              A:　カメラ屋(や)はどこですか。教(お)しえてください。
+                            </div>
+                            <div>
+                              B:&nbsp; &nbsp;
+                              橋(はし)を渡(わ)たって、まっすぐ行(い)ってください。カメラ屋(や)は左(ひだり)にあります。
+                            </div></span
+                          >
+                        </div>
+                      </div>
+                    </div>
+                    <div class="gCouxf">
+                      <div class="y6GzNb" style="width: 276px">
+                        <img
+                          src="./L10 _ Bunpou Test_files/Untitled.png"
+                          class="HxhGpf"
+                          style="width: 276px"
+                          title=""
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="Qr7Oae" role="listitem">
+                  <div
+                    jsmodel="CP1oW"
+                    data-params='%.@.[1124460314,"1)　A:　駅(えき)はどこですか。教(おし)えてください。\n        B: ___________________________________________.",null,1,[[48041064,null,true,null,null,null,null,null,null,null,[]]],null,null,null,null,[["10KEEo9s6R63iDoWIu6iKUjUDW5mzbYTGv6aYx7nulv2-aL0",null,[351,165,0]]],null,[null,"1)　A:　駅(えき)はどこですか。教(おし)えてください。\u003cdiv\u003e&nbsp; &nbsp; &nbsp; &nbsp; B: ___________________________________________.\u003c/div\u003e"]],"i1","i2","i3",false]'
+                  >
+                    <div
+                      jscontroller="sWGJ4b"
+                      jsaction="EEvAHc:yfX9oc;"
+                      jsname="WsjYwc"
+                      class="geS5n"
+                    >
+                      <div class="z12JJ">
+                        <div class="M4DNQ">
+                          <div
+                            id="i1"
+                            class="HoXoMd D1wxyf RjsPE"
+                            role="heading"
+                            aria-level="3"
+                            aria-describedby="i4"
+                          >
+                            <span class="M7eMe"
+                              >1)　A:　駅(えき)はどこですか。教(おし)えてください。
+                              <div>
+                                &nbsp; &nbsp; &nbsp; &nbsp; B:
+                                ___________________________________________.
+                              </div></span
+                            ><span
+                              class="vnumgf"
+                              id="i4"
+                              aria-label="Pertanyaan wajib"
+                            >
+                              *</span
+                            >
+                          </div>
+                          <div class="gubaDc OIC90c RjsPE" id="i2"></div>
+                        </div>
+                        <div
+                          class="nUvMO FUQCPb"
+                          role="note"
+                          aria-label="Total poin yang mungkin untuk pertanyaan ini."
+                        >
+                          3 poin
+                        </div>
+                      </div>
+                      <div class="gCouxf">
+                        <div class="y6GzNb" style="width: 351px">
+                          <img
+                            src="./L10 _ Bunpou Test_files/Untitled(1).png"
+                            class="HxhGpf"
+                            style="width: 351px"
+                            title=""
+                            alt="Gambar Tanpa Teks"
+                          />
+                          <div class="oRJ3ab OIC90c" dir="auto"></div>
+                        </div>
+                      </div>
+                      <div
+                        jscontroller="oCiKKc"
+                        jsaction="rcuQ6b:vZc4S;O22p3e:zjh6rb;b2trFe:eVidQc;sPvj8e:d3sQLd;AHmuwe:h06R8;"
+                        class="AgroKb"
+                      >
+                        <div
+                          class="edhGSc zKHdkd kRy7qc RdH0ib yqQS1"
+                          jscontroller="pxq3x"
+                          jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV"
+                          jsshadow=""
+                          jsname="YPqjbf"
+                        >
+                          <div class="RpC4Ne oJeWuf">
+                            <div
+                              class="F1pOBe snByac"
+                              aria-hidden="true"
+                              jsname="LwH6nd"
+                            >
+                              Jawaban Anda
+                            </div>
+                            <div class="Pc9Gce Wic03c">
+                              <textarea
+                                class="KHxj8b tL9Q4c"
+                                jsname="YPqjbf"
+                                data-rows="1"
+                                tabindex="0"
+                                aria-label="Jawaban Anda"
+                                jscontroller="gZjhIf"
+                                jsaction="input:Lg5SV;ti6hGc:XMgOHc;rcuQ6b:WYd;"
+                                required=""
+                                dir="auto"
+                                data-initial-dir="auto"
+                                data-initial-value=""
+                                aria-labelledby="i1"
+                                aria-describedby="i2 i3"
+                                style="height: 24px"
+                                aria-disabled="false"
+                              ></textarea>
+                            </div>
+                            <div class="z0oSpf mIZh1c"></div>
+                            <div jsname="XmnwAc" class="Bfurwb cXrdqd"></div>
+                          </div>
+                          <div class="jE8NUc">
+                            <div jsname="ty6ygf" class="YElZX Is7Fhb"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        jsname="Rfh2Tc"
+                        class="SL4Sz"
+                        id="i3"
+                        role="alert"
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="Qr7Oae" role="listitem">
+                  <div
+                    jsmodel="CP1oW"
+                    data-params='%.@.[885553608,"2) A:　図書館(としょかん)はどこですか。教(おし)えてください。\n     B: _____________________________________.",null,1,[[1507286175,null,true,null,null,null,null,null,null,null,[]]],null,null,null,null,[["1PjTZ5l4N9GkwxfZqzf_gc4e03ZUOapdGqTWrMyg19oHZ2CY",null,[369,176,0]]],null,[null,"2) A:　図書館(としょかん)はどこですか。教(おし)えてください。\u003cdiv\u003e&nbsp; &nbsp; &nbsp;B: _____________________________________.\u003c/div\u003e"]],"i5","i6","i7",false]'
+                  >
+                    <div
+                      jscontroller="sWGJ4b"
+                      jsaction="EEvAHc:yfX9oc;"
+                      jsname="WsjYwc"
+                      class="geS5n"
+                    >
+                      <div class="z12JJ">
+                        <div class="M4DNQ">
+                          <div
+                            id="i5"
+                            class="HoXoMd D1wxyf RjsPE"
+                            role="heading"
+                            aria-level="3"
+                            aria-describedby="i8"
+                          >
+                            <span class="M7eMe"
+                              >2)
+                              A:　図書館(としょかん)はどこですか。教(おし)えてください。
+                              <div>
+                                &nbsp; &nbsp; &nbsp;B:
+                                _____________________________________.
+                              </div></span
+                            ><span
+                              class="vnumgf"
+                              id="i8"
+                              aria-label="Pertanyaan wajib"
+                            >
+                              *</span
+                            >
+                          </div>
+                          <div class="gubaDc OIC90c RjsPE" id="i6"></div>
+                        </div>
+                        <div
+                          class="nUvMO FUQCPb"
+                          role="note"
+                          aria-label="Total poin yang mungkin untuk pertanyaan ini."
+                        >
+                          3 poin
+                        </div>
+                      </div>
+                      <div class="gCouxf">
+                        <div class="y6GzNb" style="width: 369px">
+                          <img
+                            src="./L10 _ Bunpou Test_files/Untitled(2).png"
+                            class="HxhGpf"
+                            style="width: 369px"
+                            title=""
+                            alt="Gambar Tanpa Teks"
+                          />
+                          <div class="oRJ3ab OIC90c" dir="auto"></div>
+                        </div>
+                      </div>
+                      <div
+                        jscontroller="oCiKKc"
+                        jsaction="rcuQ6b:vZc4S;O22p3e:zjh6rb;b2trFe:eVidQc;sPvj8e:d3sQLd;AHmuwe:h06R8;"
+                        class="AgroKb"
+                      >
+                        <div
+                          class="edhGSc zKHdkd kRy7qc RdH0ib yqQS1"
+                          jscontroller="pxq3x"
+                          jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV"
+                          jsshadow=""
+                          jsname="YPqjbf"
+                        >
+                          <div class="RpC4Ne oJeWuf">
+                            <div
+                              class="F1pOBe snByac"
+                              aria-hidden="true"
+                              jsname="LwH6nd"
+                            >
+                              Jawaban Anda
+                            </div>
+                            <div class="Pc9Gce Wic03c">
+                              <textarea
+                                class="KHxj8b tL9Q4c"
+                                jsname="YPqjbf"
+                                data-rows="1"
+                                tabindex="0"
+                                aria-label="Jawaban Anda"
+                                jscontroller="gZjhIf"
+                                jsaction="input:Lg5SV;ti6hGc:XMgOHc;rcuQ6b:WYd;"
+                                required=""
+                                dir="auto"
+                                data-initial-dir="auto"
+                                data-initial-value=""
+                                aria-labelledby="i5"
+                                aria-describedby="i6 i7"
+                                style="height: 24px"
+                                aria-disabled="false"
+                              ></textarea>
+                            </div>
+                            <div class="z0oSpf mIZh1c"></div>
+                            <div jsname="XmnwAc" class="Bfurwb cXrdqd"></div>
+                          </div>
+                          <div class="jE8NUc">
+                            <div jsname="ty6ygf" class="YElZX Is7Fhb"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        jsname="Rfh2Tc"
+                        class="SL4Sz"
+                        id="i7"
+                        role="alert"
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ThHDze"
+                jscontroller="lSvzH"
+                jsaction="rcuQ6b:npT2md;JIbuQc:qV61Ff(X5DuWc),Gl574d(QR6bsb),V3upec(GeGHKb),HiUbje(M2UYVd),NPBnCf(OCpkoe); keydown:duASZc"
+                data-shuffle-seed="4281535002415197103"
+                data-should-execute-invisible-captcha-challenge="false"
+                data-is-receipt-checked="false"
+              >
+                <div class="DE3NNc CekdCb">
+                  <div class="lRwqcd">
+                    <div
+                      role="button"
+                      class="uArJ5e UQuaGc YhQJj zo8FOc ctEux"
+                      jscontroller="VXdfxd"
+                      jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;"
+                      jsshadow=""
+                      jsname="GeGHKb"
+                      tabindex="0"
+                    >
+                      <div class="Fvio9d MbhUzd" jsname="ksKsZd"></div>
+                      <div class="e19J0b CeoRYc"></div>
+                      <span jsslot="" class="l4V7wb Fxmcue"
+                        ><span class="NPEfkd RveJvd snByac">Kembali</span></span
+                      >
+                    </div>
+                    <div
+                      role="button"
+                      class="uArJ5e UQuaGc YhQJj zo8FOc ctEux"
+                      jscontroller="VXdfxd"
+                      jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;"
+                      jsshadow=""
+                      jsname="OCpkoe"
+                      tabindex="0"
+                    >
+                      <div class="Fvio9d MbhUzd" jsname="ksKsZd"></div>
+                      <div class="e19J0b CeoRYc"></div>
+                      <span jsslot="" class="l4V7wb Fxmcue"
+                        ><span class="NPEfkd RveJvd snByac"
+                          >Berikutnya</span
+                        ></span
+                      >
+                    </div>
+                  </div>
+                  <div class="bEJm0e">
+                    <div
+                      class="cJ3RAd graCKc"
+                      aria-valuenow="37"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      aria-labelledby="lpd4pf"
+                      role="progressbar"
+                    >
+                      <div class="Jo4Fpf J9wxz" style="width: 37%"></div>
+                    </div>
+                    <div id="lpd4pf" class="HZh16d" aria-hidden="true">
+                      Halaman 3 dari 8
+                    </div>
+                  </div>
+                  <div class="nYdzXd">
+                    <div
+                      role="button"
+                      class="uArJ5e UQuaGc kCyAyd l3F1ye TFBnVe"
+                      jscontroller="VXdfxd"
+                      jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;"
+                      jsshadow=""
+                      jsname="X5DuWc"
+                      tabindex="0"
+                    >
+                      <div class="Fvio9d MbhUzd" jsname="ksKsZd"></div>
+                      <div class="e19J0b CeoRYc"></div>
+                      <span jsslot="" class="l4V7wb Fxmcue"
+                        ><span class="NPEfkd RveJvd snByac"
+                          >Kosongkan formulir</span
+                        ></span
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="T2dutf">
+                  Jangan pernah mengirimkan sandi melalui Google Formulir.
+                </div>
+              </div>
+              <input type="hidden" name="fvv" value="1" /><input
+                type="hidden"
+                name="partialResponse"
+                value='[[[null,1948086066,["t"],0],[null,51933766,["t"],0],[null,375432037,["22:00"],0],[null,689815601,["に"],0],[null,1667787729,["に"],0],[null,113208864,["で"],0],[null,149331305,["で"],0],[null,427988484,["① で"],0],[null,232531146,["② から"],0],[null,602410306,["③ で"],0]],null,"4281535002415197103",null,null,null,"adistipebritanti@gmail.com",0]'
+              /><input type="hidden" name="pageHistory" value="0,1,2" /><input
+                type="hidden"
+                name="token"
+                value="1NhJ5ZEBAAA.69XgF4gm34itrpBcHdukQQ.CVPenQ7_XPmJ8YijHedx4Q"
+              /><input
+                type="hidden"
+                name="fbzx"
+                value="4281535002415197103"
+              /><input type="hidden" name="submissionTimestamp" value="-1" />
+            </div>
+          </div>
+        </form>
